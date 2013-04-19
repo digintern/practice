@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <title>Behold!</title>
+        <link rel='stylesheet' type='text/css' href='http://code.jquery.com/ui/1.9.1/themes/base/jquery-ui.css'/>
+        <script type='text/javascript' src='script.js'></script>
+        <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js"></script>
+	</head>
+	<body>
+        <div id="menu">
+            <h3>Rachael</h3>
+            <div>
+                <p>Rachael is someone learning jQuery.</p>
+            </div>
+            <h3>Jeffrey</h3>
+            <div>
+                <p>Jeffrey is Rachael's boss.</p>
+            </div>
+            <h3>The hope</h3>
+            <div>
+                <p>is that this will work.</p>
+            </div>
+        </div>
+	</body>
+</html>
