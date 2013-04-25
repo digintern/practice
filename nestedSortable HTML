@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+<title>Select Ye Favorite</title>
+        <link rel='stylesheet' type='text/css' href='stylesheet.css'/>
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.0/jquery.min.js"></script>
+        <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js"></script>
+<script type='text/javascript' src='sortable 2 jQuery.js'></script>
+<script type='text/javascript' src='nestedSortable.js'></script>
+</head>
+<body>
+        <ol class = 'sortable'>
+            <li><div>a</div></li>
+            <li>
+                <div>b</div>
+                <ol>
+                    <li><div>c</div></li>
+                    <li><div>d</div></li>
+                </ol>
+            </li>
+        </ol>
+</body>
+</html>
